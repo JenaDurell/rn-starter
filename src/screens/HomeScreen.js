@@ -10,7 +10,7 @@ const HomeScreen = ({ navigation }) => {
         title="Go to Fart Demo"
       />
       <Button
-        title="get over to the fart page, farts happening now, Carter is in the lead!"
+        title="get over to the fart page motherfucker, farts happening now, Carter is in the lead!"
         onPress={() => navigation.navigate("List")}
       />
       <Button
